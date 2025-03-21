@@ -1,2 +1,2 @@
 # Gold_Price_Prediction
-This project predicts gold prices (GLD) using a Linear Regression model. Key features include SPX, USO, SLV, and EUR/USD from a dataset with 2290 rows spanning 2008–2018. The model analyzes financial and commodity indicators to estimate gold prices effectively.
+Using financial data from 2008-2018, this project aims to predict gold prices (GLD) with a Linear Regression model. Key predictors are SPX, USO, SLV, and EUR/USD. The model leverages these indicators to provide efficient gold price estimates.
